@@ -10,6 +10,7 @@ Gyanadipta Mohanty |
 Geyani Lingamallu |
 
 Demo available on [YouTube](https://youtu.be/WyqRXaE4JNg?si=beZ8Pj4ZAurhc5lc)
+Demo available on [![image](https://github.com/user-attachments/assets/246f6525-2601-4ab1-bc31-4566421ecb24)](https://youtu.be/WyqRXaE4JNg?si=beZ8Pj4ZAurhc5lc)
 
 ---
 
