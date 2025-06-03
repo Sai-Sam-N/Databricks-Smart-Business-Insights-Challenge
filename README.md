@@ -11,7 +11,7 @@ Geyani Lingamallu |
 
 Demo available on [YouTube](https://youtu.be/WyqRXaE4JNg?si=beZ8Pj4ZAurhc5lc)
 <a href="https://youtu.be/WyqRXaE4JNg?si=beZ8Pj4ZAurhc5lc" target="_blank">
- <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+ <img src="https://github.com/user-attachments/assets/02580530-549a-412a-b5f4-85159eea9686" alt="Watch the video" width="240" height="180" border="10" />
 </a>
 
 ---
