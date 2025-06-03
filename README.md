@@ -71,6 +71,8 @@ The model’s performance was evaluated using a holdout test set, and the follow
 * **Root Mean Squared Error (RMSE)**: 3.07 minutes
 * **R² Score**: 0.93
 
+<img width="1073" alt="image" src="https://github.com/user-attachments/assets/66497c1b-510d-4ca1-b56b-87f5093da85e" />
+
 These metrics indicate that the model, on average, deviates by only 1.75 minutes from the actual ETA, with most predictions staying within 3 minutes of the true value. An R² score of 0.93 suggests the model explains 93% of the variance in the data — a strong indicator of predictive power.
 
 ---
@@ -84,6 +86,11 @@ One of the unique features of the system is its ability to **forecast ETA for a 
 3. **Using the trained RandomForest model** to return the predicted ETA in minutes.
 
 This enables planning ahead — for example, predicting commute time for a 9 AM meeting tomorrow from Kondapur to Hitech City under forecasted rain.
+
+#### Sample Forecasting
+<img width="1056" alt="image" src="https://github.com/user-attachments/assets/6906ba16-a7e5-446b-b1bd-989ffde59338" />
+<img width="1053" alt="image" src="https://github.com/user-attachments/assets/44b77a26-3c63-4ac8-9b22-2cb6667a42d0" />
+
 
 ---
 
