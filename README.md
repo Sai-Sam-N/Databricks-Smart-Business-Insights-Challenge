@@ -9,7 +9,8 @@ Sri Lahari Chirumerla |
 Gyanadipta Mohanty |
 Geyani Lingamallu |
 
-Demo available on [YouTube](https://youtu.be/WyqRXaE4JNg?si=beZ8Pj4ZAurhc5lc)
+#### Watch the demo on [YouTube](https://youtu.be/WyqRXaE4JNg?si=beZ8Pj4ZAurhc5lc)
+
 ---
 
 ### **ETA Prediction System: AI Dashboards, Genie Spaces, and Machine Learning Integration**
