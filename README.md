@@ -99,4 +99,5 @@ This enables planning ahead — for example, predicting commute time for a 9 AM 
 This system is ideal for logistics firms, ride-hailing platforms, and city mobility planners who need to understand and optimize travel times under uncertain conditions. By blending historical trends, real-time weather, and predictive modeling, it offers an AI-powered assistant for urban travel.
 
 It’s scalable, interpretable, and capable of being deployed as a REST API or embedded within mobile/web applications to support smarter transportation decisions.
+
 ---
