@@ -10,7 +10,7 @@ Gyanadipta Mohanty |
 Geyani Lingamallu |
 
 Demo available on [YouTube](https://youtu.be/WyqRXaE4JNg?si=beZ8Pj4ZAurhc5lc)
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
+<a href="[http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q](https://youtu.be/WyqRXaE4JNg?si=beZ8Pj4ZAurhc5lc)" target="_blank">
  <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
 
