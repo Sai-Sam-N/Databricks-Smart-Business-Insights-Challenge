@@ -30,12 +30,7 @@ The project begins with the visualization of raw and processed data using intera
 
 The dashboards serve as a central reporting hub where the effectiveness of the ML model can be monitored, and new patterns can be discovered. Filters allow the user to select specific locations, dates, and weather conditions to simulate "what-if" scenarios for commute planning.
 
-<iframe
-  src="https://dbc-c0ef4d46-9e4a.cloud.databricks.com/embed/dashboardsv3/01f0394c4a451174a7b9ea331eb85d39?o=3195065779830207"
-  width="100%"
-  height="600"
-  frameborder="0">
-</iframe>
+[🔗 View Interactive Databricks Dashboard](https://dbc-c0ef4d46-9e4a.cloud.databricks.com/embed/dashboardsv3/01f0394c4a451174a7b9ea331eb85d39?o=3195065779830207)
 
 ---
 
