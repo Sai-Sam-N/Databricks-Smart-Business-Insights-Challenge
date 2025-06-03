@@ -9,7 +9,7 @@ Sri Lahari Chirumerla |
 Gyanadipta Mohanty |
 Geyani Lingamallu |
 
-Demo available on (YouTube)[https://youtu.be/WyqRXaE4JNg?si=beZ8Pj4ZAurhc5lc]
+Demo available on [YouTube](https://youtu.be/WyqRXaE4JNg?si=beZ8Pj4ZAurhc5lc)
 
 ---
 
