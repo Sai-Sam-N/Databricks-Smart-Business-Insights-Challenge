@@ -10,10 +10,6 @@ Gyanadipta Mohanty |
 Geyani Lingamallu |
 
 Demo available on [YouTube](https://youtu.be/WyqRXaE4JNg?si=beZ8Pj4ZAurhc5lc)
-<a href="https://youtu.be/WyqRXaE4JNg?si=beZ8Pj4ZAurhc5lc" target="_blank">
- <img src="https://github.com/user-attachments/assets/02580530-549a-412a-b5f4-85159eea9686" alt="Watch the video" width="240" height="180" border="10" />
-</a>
-
 ---
 
 ### **ETA Prediction System: AI Dashboards, Genie Spaces, and Machine Learning Integration**
