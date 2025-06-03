@@ -30,6 +30,8 @@ The project begins with the visualization of raw and processed data using intera
 
 The dashboards serve as a central reporting hub where the effectiveness of the ML model can be monitored, and new patterns can be discovered. Filters allow the user to select specific locations, dates, and weather conditions to simulate "what-if" scenarios for commute planning.
 
+### 📊 [View Live Dashboard]([https://your-dashboard-url.com](https://dbc-c0ef4d46-9e4a.cloud.databricks.com/dashboardsv3/01f0394c4a451174a7b9ea331eb85d39/published?o=3195065779830207))
+
 ---
 
 ### **Part 2: Genie Spaces – Data Engineering Layer**
